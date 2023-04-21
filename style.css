@@ -788,7 +788,7 @@ footer {
     /* padding: 20px; */
     display: flex;
     flex-flow: column nowrap;
-    flex: 0 0 30.333%;
+    flex: 0 0 20.333%;
     align-items: center;
     justify-content: center;
 
